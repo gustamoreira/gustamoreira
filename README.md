@@ -3,7 +3,7 @@
 ###
 
 
-<h3 align="left"> Não tenho experiência em mercado de trabalho, mas tenho alguns projetos feitos através de estudo</h3>
+<h3 align="left"> Estaudante de desenvolvimento de software, iniciando a graduação de Ciência da computação. Com alguns projetos em Python, JavaScript, React, HTML e CSS</h3>
 
 <hr>
 
